@@ -18,4 +18,3 @@ public void setup(){
     myFractal(x, y, siz-50);
     }
   }
-}
